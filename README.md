@@ -20,10 +20,10 @@ Markdown     10 mins         ▒░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [手把手教你如何创建启动 Google Cloud 实例](https://www.0x2beace.com/teach-you-how-to-create-and-start-a-google-cloud-instance/)
 - [不常用Linux命令](https://www.0x2beace.com/not-commonly-used-linux-commands/)
 - [Git 变基命令详解](https://www.0x2beace.com/detailed-explanation-of-git-rebase-commands/)
 - [Socket.io 连接异常：Error during WebSocket handshake Unexpected response code 400](https://www.0x2beace.com/socket-io-connection-exception-error-during-webSocket-handshake-unexpected-response-code-400/)
 - [Git Clone 太慢怎么办？](https://www.0x2beace.com/what-should-I-do-if-git-clone-is-too-slow/)
-- [如何让终端命令走代理？](https://www.0x2beace.com/how-to-make-terminal-commands-go-through-proxy/)
 <!-- BLOG-POST-LIST:END -->
 
