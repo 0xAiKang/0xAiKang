@@ -20,10 +20,10 @@ EJS          4 mins          ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zabbix 添加Agent 主机](https://www.0x2beace.com/zabbix-add-agent-host/)
 - [Mysql 主从架构配置](https://www.0x2beace.com/mysql-master-slave-architecture-configuration/)
 - [了解 SSH Config](https://www.0x2beace.com/understand-ssh-config/)
 - [Cygwin 快速上手](https://www.0x2beace.com/cygwin-quick-start/)
 - [Linux 压缩、解压、打包详解](https://www.0x2beace.com/detailed-explanation-of-linux-compression-decompression-and-packaging/)
-- [Docker Hub 快速上手](https://www.0x2beace.com/docker-hub-quick-start/)
 <!-- BLOG-POST-LIST:END -->
 
