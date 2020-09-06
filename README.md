@@ -9,16 +9,20 @@
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other        86 hrs 32 mins  ███████████████████████▓░   95.19 % 
+PHP          2 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+JavaScript   57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML         24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Markdown     15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Socket.io 连接异常：Error during WebSocket handshake Unexpected response code 400](https://www.0x2beace.com/socket-io-connection-exception-error-during-webSocket-handshake-unexpected-response-code-400/)
-- [Git Clone 太慢怎么办？](https://www.0x2beace.com/what-should-I-do-if-git-clone-is-too-slow/)
-- [如何让终端命令走代理？](https://www.0x2beace.com/how-to-make-terminal-commands-go-through-proxy/)
-- [Git Pull 命令详解](https://www.0x2beace.com/detailed-git-pull-command/)
-- [Win10 如何卸载 Arch Linux](https://www.0x2beace.com/how-to-uninstall-wsl-linux-subsystem-in-win-10/)
+- [Zabbix 快速上手](https://www.0x2beace.com/zabbix-quick-start/)
+- [Zabbix 添加Agent 主机](https://www.0x2beace.com/zabbix-add-agent-host/)
+- [Mysql 主从架构配置](https://www.0x2beace.com/mysql-master-slave-architecture-configuration/)
+- [了解 SSH Config](https://www.0x2beace.com/understand-ssh-config/)
+- [Cygwin 快速上手](https://www.0x2beace.com/cygwin-quick-start/)
 <!-- BLOG-POST-LIST:END -->
 
