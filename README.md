@@ -1,11 +1,10 @@
+## Hi there 👋
+* 🔭 I’m a Linux enthusiast 🐧️
+* 🏃️ I’m currently learning everything 🏃️
 
 [![Boo's github stats](https://github-readme-stats.vercel.app/api?username=0xAiKang)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hi there 👋
-* 🔭 I’m a Linux enthusiast
-* 🏃️ I’m currently learning everything 🤣
-
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAiKang)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAiKang)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
