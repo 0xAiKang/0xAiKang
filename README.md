@@ -19,10 +19,10 @@ Markdown     26 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zabbix + Grafana 打造高颜值的分布式监控平台](https://www.0x2beace.com/zabbix-grafana-to-create-a-high-value-distributed-monitoring-platform/)
 - [当 Docker 容器无法正常启动时如何修改配置文件？](https://www.0x2beace.com/how-to-modify-the-configuration-file-when-the-docker-container-cannot-start-normally/)
 - [PHP-FPM 配置初始化](https://www.0x2beace.com/php-fpm-configuration-initialization/)
 - [Zabbix 快速上手——部署](https://www.0x2beace.com/zabbix-quick-start/)
-- [Zabbix 添加Agent 主机](https://www.0x2beace.com/zabbix-add-agent-host/)
-- [Mysql 主从架构配置](https://www.0x2beace.com/mysql-master-slave-architecture-configuration/)
+- [Zabbix 快速上手——添加Agent 主机](https://www.0x2beace.com/zabbix-add-agent-host/)
 <!-- BLOG-POST-LIST:END -->
 
