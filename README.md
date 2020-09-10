@@ -19,10 +19,10 @@ JavaScript   17 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [当 Docker 容器无法正常启动时如何修改配置文件](https://www.0x2beace.com/how-to-modify-the-configuration-file-when-the-docker-container-cannot-start-normally-1/)
 - [Zabbix 快速上手——添加监控项](https://www.0x2beace.com/zabbix-quick-start-add-monitoring-items/)
 - [Zabbix + Grafana 打造高颜值的分布式监控平台](https://www.0x2beace.com/zabbix-grafana-to-create-a-high-value-distributed-monitoring-platform/)
 - [当 Docker 容器无法正常启动时如何修改配置文件？](https://www.0x2beace.com/how-to-modify-the-configuration-file-when-the-docker-container-cannot-start-normally/)
 - [PHP-FPM 配置初始化](https://www.0x2beace.com/php-fpm-configuration-initialization/)
-- [Zabbix 快速上手——部署](https://www.0x2beace.com/zabbix-quick-start/)
 <!-- BLOG-POST-LIST:END -->
 
