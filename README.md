@@ -19,10 +19,10 @@ Markdown     30 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [mysql5.7用户管理：添加用户、授权、撤权、修改密码](https://www.0x2beace.com/mysql5-7-user-management-add-users-authorize-revoke-rights-modify-passwords/)
 - [postman tips](https://www.0x2beace.com/postman-tips/)
 - [Mysql 常见异常分析](https://www.0x2beace.com/mysql-common-exception-analysis/)
 - [Mysql 数据库设计规范与原则](https://www.0x2beace.com/mysql-database-design-rules-and-principles/)
 - [Windows、Mac 下使用 PHPStorm 配置 Xdebug，实现断点调试](https://www.0x2beace.com/use-phpstorm-to-configure-xdebug-under-windows-and-mac/)
-- [什么是DevOps、CI、CD、K8S](https://www.0x2beace.com/what-is-devops-ci-cd-k8s/)
 <!-- BLOG-POST-LIST:END -->
 
