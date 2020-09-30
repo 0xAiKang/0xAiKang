@@ -19,10 +19,10 @@ JSON       4 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [recursive algorithm](https://www.0x2beace.com/recursive-algorithm/)
 - [Mysql 多表联查](https://www.0x2beace.com/mysql-multi-table-joint-check/)
 - [PHP-FPM 与 Nginx 是什么关系？](https://www.0x2beace.com/what-is-the-relationship-between-php-fpm-and-nginx/)
 - [如何将 JSON 对象转换成 PHP 数组](https://www.0x2beace.com/how-to-convert-a-json-object-into-a-php-array/)
 - [同一局域网内如何访问项目地址、连接 Mysql](https://www.0x2beace.com/how-to-access-the-project-address-and-connect-to-mysql-in-the-same-local-area-network/)
-- [mysql5.7用户管理：添加用户、授权、撤权、修改密码](https://www.0x2beace.com/mysql5-7-user-management-add-users-authorize-revoke-rights-modify-passwords/)
 <!-- BLOG-POST-LIST:END -->
 
