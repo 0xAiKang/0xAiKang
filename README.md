@@ -17,10 +17,10 @@ Markdown     14 mins         ▒░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nginx 如何根据 IP 获取地域信息](https://www.0x2beace.com/how-does-nginx-obtain-geographic-information-based-on-ip/)
 - [Docker 数据挂载](https://www.0x2beace.com/docker-data-mount/)
 - [nginx 超时问题——upstream timed out (110: Connection timed out) while reading response header from upstream](https://www.0x2beace.com/nginx-timeout-problem-upstream-timed-out-110-Connection-timed-out-while-reading-response-header-from-upstream/)
 - [Tmux 快速上手](https://www.0x2beace.com/tmux-quick-start/)
 - [MysqliDb 快速上手](https://www.0x2beace.com/mysqlidb-is-quick-to-get-started/)
-- [PHPStrom 高级技巧整理](https://www.0x2beace.com/phpstorm-advanced-skills-finishing/)
 <!-- BLOG-POST-LIST:END -->
 
