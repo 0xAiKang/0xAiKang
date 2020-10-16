@@ -19,10 +19,10 @@ Markdown     10 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vim 常用快捷键总结](https://www.0x2beace.com/summary-of-vim-commonly-used-shortcut-keys/)
 - [PHP Socket 编程](https://www.0x2beace.com/php-socket-programming/)
 - [PHP PDO 快速上手](https://www.0x2beace.com/php-pdo-quick-start/)
 - [消息队列快速上手](https://www.0x2beace.com/quick-start-message-queue/)
 - [Nginx 如何根据 IP 获取地域信息](https://www.0x2beace.com/how-does-nginx-obtain-geographic-information-based-on-ip/)
-- [Docker 数据挂载](https://www.0x2beace.com/docker-data-mount/)
 <!-- BLOG-POST-LIST:END -->
 
