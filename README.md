@@ -19,10 +19,10 @@ HTML         19 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP-FPM 优化——占用内存大不释放](https://www.0x2beace.com/php-fpm-optimization-takes-up-a-lot-of-memory-and-does-not-release/)
 - [对于NULL、空、0、false等数据类型的理解](https://www.0x2beace.com/understanding-of-data-types-such-as-null-empty-0-false-etc/)
 - [Vim 常用快捷键总结](https://www.0x2beace.com/summary-of-vim-commonly-used-shortcut-keys/)
 - [PHP Socket 编程](https://www.0x2beace.com/php-socket-programming/)
 - [PHP PDO 快速上手](https://www.0x2beace.com/php-pdo-quick-start/)
-- [消息队列快速上手](https://www.0x2beace.com/quick-start-message-queue/)
 <!-- BLOG-POST-LIST:END -->
 
