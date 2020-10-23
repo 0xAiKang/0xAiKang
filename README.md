@@ -19,10 +19,10 @@ Markdown   25 mins         ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL Integer类型与INT(11)详解](https://www.0x2beace.com/mysql-integer-type-and-int-11-detailed-explanation/)
 - [Windows 如何安装 Swoole？](https://www.0x2beace.com/how-to-install-swoole-on-windows/)
 - [PHP 常见浮点数操作](https://www.0x2beace.com/php-common-floating-point-operations/)
 - [关于 Markdown 的一些技巧](https://www.0x2beace.com/some-tips-about-markdown/)
 - [PHP-FPM 优化——占用内存大不释放](https://www.0x2beace.com/php-fpm-optimization-takes-up-a-lot-of-memory-and-does-not-release/)
-- [对于NULL、空、0、false等数据类型的理解](https://www.0x2beace.com/understanding-of-data-types-such-as-null-empty-0-false-etc/)
 <!-- BLOG-POST-LIST:END -->
 
