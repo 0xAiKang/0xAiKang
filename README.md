@@ -19,10 +19,10 @@ Markdown   25 mins         ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [sorting out some concepts in swoole](https://www.0x2beace.com/sorting-out-some-concepts-in-swoole/)
 - [初始进程与线程](https://www.0x2beace.com/initial-process-and-thread/)
 - [MySQL Integer类型与INT(11)详解](https://www.0x2beace.com/mysql-integer-type-and-int-11-detailed-explanation/)
 - [Windows 如何安装 Swoole？](https://www.0x2beace.com/how-to-install-swoole-on-windows/)
 - [PHP 常见浮点数操作](https://www.0x2beace.com/php-common-floating-point-operations/)
-- [关于 Markdown 的一些技巧](https://www.0x2beace.com/some-tips-about-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
