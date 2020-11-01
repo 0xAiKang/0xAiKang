@@ -19,10 +19,10 @@ SQL        5 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [swoole process learning](https://www.0x2beace.com/swoole-process-learning/)
 - [Crontab 快速上手](https://www.0x2beace.com/crontab-quick-start/)
-- [Swoole 中的一些概念整理](https://www.0x2beace.com/sorting-out-some-concepts-in-swoole/)
+- [Swoole 常见概念整理](https://www.0x2beace.com/sorting-out-some-concepts-in-swoole/)
 - [初始进程与线程](https://www.0x2beace.com/initial-process-and-thread/)
 - [MySQL Integer类型与INT(11)详解](https://www.0x2beace.com/mysql-integer-type-and-int-11-detailed-explanation/)
-- [Windows 如何安装 Swoole？](https://www.0x2beace.com/how-to-install-swoole-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
