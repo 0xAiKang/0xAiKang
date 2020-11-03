@@ -19,10 +19,10 @@ SQL        12 mins         ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swoole 基础知识学习](https://www.0x2beace.com/swoole-basic-knowledge-learning/)
 - [Swoole Tcp 学习](https://www.0x2beace.com/swoole-tcp-learning/)
 - [Swoole 进程学习](https://www.0x2beace.com/swoole-process-learning/)
 - [Crontab 快速上手](https://www.0x2beace.com/crontab-quick-start/)
 - [Swoole 常见概念整理](https://www.0x2beace.com/sorting-out-some-concepts-in-swoole/)
-- [初始进程与线程](https://www.0x2beace.com/initial-process-and-thread/)
 <!-- BLOG-POST-LIST:END -->
 
