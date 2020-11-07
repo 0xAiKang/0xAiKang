@@ -19,10 +19,10 @@ SQL          8 mins          ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [how does mysql choose float, double, decimal](https://www.0x2beace.com/how-does-mysql-choose-float-double-decimal/)
+- [Redis 常用数据类型整理](https://www.0x2beace.com/redis-common-data-types-sorting/)
+- [Mysql 如何选择 Float、Double、Decimal](https://www.0x2beace.com/how-does-mysql-choose-float-double-decimal/)
 - [Mac 临时文件占用过多磁盘空间](https://www.0x2beace.com/mac-temporary-files-take-up-too-much-disk-space/)
 - [Swoole 基础知识学习](https://www.0x2beace.com/swoole-basic-knowledge-learning/)
 - [Swoole Tcp 学习](https://www.0x2beace.com/swoole-tcp-learning/)
-- [Swoole 进程学习](https://www.0x2beace.com/swoole-process-learning/)
 <!-- BLOG-POST-LIST:END -->
 
