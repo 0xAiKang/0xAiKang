@@ -19,10 +19,10 @@ JSON         7 mins          ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [互联网人的双十一](https://www.0x2beace.com/double-eleven-for-internet-people/)
 - [Linux 查看系统、硬件信息](https://www.0x2beace.com/linux-view-system-and-hardware-information/)
 - [Redis 常用数据类型整理](https://www.0x2beace.com/redis-common-data-types-sorting/)
 - [Mysql 如何选择 Float、Double、Decimal](https://www.0x2beace.com/how-does-mysql-choose-float-double-decimal/)
 - [Mac 临时文件占用过多磁盘空间](https://www.0x2beace.com/mac-temporary-files-take-up-too-much-disk-space/)
-- [Swoole 基础知识学习](https://www.0x2beace.com/swoole-basic-knowledge-learning/)
 <!-- BLOG-POST-LIST:END -->
 
