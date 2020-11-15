@@ -19,10 +19,10 @@ JavaScript   12 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mac 下IDEA 无法正常启动](https://www.0x2beace.com/idea-cannot-start-normally-under-mac/)
 - [Google Drive 如何转存文件？](https://www.0x2beace.com/how-does-google-drive-transfer-files/)
 - [互联网人的双十一](https://www.0x2beace.com/double-eleven-for-internet-people/)
 - [Linux 查看系统、硬件信息](https://www.0x2beace.com/linux-view-system-and-hardware-information/)
 - [Redis 常用数据类型整理](https://www.0x2beace.com/redis-common-data-types-sorting/)
-- [Mysql 如何选择 Float、Double、Decimal](https://www.0x2beace.com/how-does-mysql-choose-float-double-decimal/)
 <!-- BLOG-POST-LIST:END -->
 
