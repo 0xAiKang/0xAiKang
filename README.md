@@ -19,10 +19,10 @@ JSON       9 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux系统监控命令整理汇总](https://www.0x2beace.com/summary-of-linux-system-monitoring-commands/)
 - [Mac 下IDEA 无法正常启动](https://www.0x2beace.com/idea-cannot-start-normally-under-mac/)
 - [Google Drive 如何转存文件？](https://www.0x2beace.com/how-does-google-drive-transfer-files/)
 - [互联网人的双十一](https://www.0x2beace.com/double-eleven-for-internet-people/)
 - [Linux 查看系统、硬件信息](https://www.0x2beace.com/linux-view-system-and-hardware-information/)
-- [Redis 常用数据类型整理](https://www.0x2beace.com/redis-common-data-types-sorting/)
 <!-- BLOG-POST-LIST:END -->
 
