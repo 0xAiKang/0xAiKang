@@ -19,10 +19,10 @@ HTML         14 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [如何在 Mac OS 上安装多版本的 PHP](https://www.0x2beace.com/how-to-install-multiple-versions-of-php-on-mac-os/)
 - [Redis 持久化快速上手](https://www.0x2beace.com/redis-persistence-quick-start/)
 - [Linux系统监控命令整理汇总](https://www.0x2beace.com/summary-of-linux-system-monitoring-commands/)
 - [Mac 下IDEA 无法正常启动](https://www.0x2beace.com/idea-cannot-start-normally-under-mac/)
 - [Google Drive 如何转存文件？](https://www.0x2beace.com/how-does-google-drive-transfer-files/)
-- [互联网人的双十一](https://www.0x2beace.com/double-eleven-for-internet-people/)
 <!-- BLOG-POST-LIST:END -->
 
