@@ -19,10 +19,10 @@ HTML         11 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [如何高效的利用谷歌搜索引擎](https://www.0x2beace.com/how-to-use-google-search-engine-efficiently/)
 - [PHP + Swoole 实现异步任务队列](https://www.0x2beace.com/php-swoole-to-achieve-asynchronous-task-queue/)
 - [PHP 的四种设置回调函数的方式](https://www.0x2beace.com/php-s-four-ways-to-set-callback-functions/)
 - [如何在 Mac OS 上安装多版本的 PHP](https://www.0x2beace.com/how-to-install-multiple-versions-of-php-on-mac-os/)
 - [Redis 持久化快速上手](https://www.0x2beace.com/redis-persistence-quick-start/)
-- [Linux系统监控命令整理汇总](https://www.0x2beace.com/summary-of-linux-system-monitoring-commands/)
 <!-- BLOG-POST-LIST:END -->
 
