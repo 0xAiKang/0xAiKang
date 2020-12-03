@@ -19,10 +19,10 @@ JavaScript   7 mins          ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [记一次服务器被 kdevtmpfsi 变矿机](https://www.0x2beace.com/remember-once-the-server-was-changed-into-a-miner-by-kdevtmpfsi/)
 - [PHP-FPM 进化史](https://www.0x2beace.com/the-evolution-of-php-fpm/)
 - [PHP 8.0 初体验](https://www.0x2beace.com/php-8-0-first-experience/)
 - [记一次 Linux 服务器性能调优](https://www.0x2beace.com/remember-a-Linux-server-performance-tuning/)
 - [Swoole 协程学习](https://www.0x2beace.com/swoole-coroutine-learning/)
-- [如何高效的利用谷歌搜索引擎](https://www.0x2beace.com/how-to-use-google-search-engine-efficiently/)
 <!-- BLOG-POST-LIST:END -->
 
