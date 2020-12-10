@@ -19,10 +19,10 @@ EJS        5 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [linux ufw quick start](https://www.0x2beace.com/linux-ufw-quick-start/)
 - [Linux iptables 常用规则整理](https://www.0x2beace.com/linux-iptables-common-rules-collation/)
 - [Go 语言学习笔记](https://www.0x2beace.com/golang-quick-start/)
 - [Docker Login 登录异常](https://www.0x2beace.com/docker-Login-login-exception/)
 - [记一次服务器被 kdevtmpfsi 变矿机](https://www.0x2beace.com/remember-once-the-server-was-changed-into-a-miner-by-kdevtmpfsi/)
-- [PHP-FPM 进化史](https://www.0x2beace.com/the-evolution-of-php-fpm/)
 <!-- BLOG-POST-LIST:END -->
 
