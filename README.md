@@ -19,10 +19,10 @@ Markdown   5 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [理解 Go 语言中的字符串和字节数组](https://www.0x2beace.com/understand-strings-and-byte-arrays-in-Go/)
 - [Composer 2.0 向下不兼容导致扩展安装出错](https://www.0x2beace.com/composer-2-0-backward-incompatibility-causes-extension-installation-error/)
 - [Swoole 协程快速上手](https://www.0x2beace.com/swoole-coroutine-quick-start/)
 - [Swoole 常见误区及问题总结](https://www.0x2beace.com/swoole-common-mistakes-and-problems-summary/)
 - [Linux ufw 快速上手](https://www.0x2beace.com/linux-ufw-quick-start/)
-- [Linux iptables 常用规则整理](https://www.0x2beace.com/linux-iptables-common-rules-collation/)
 <!-- BLOG-POST-LIST:END -->
 
