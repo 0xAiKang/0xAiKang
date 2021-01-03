@@ -19,10 +19,10 @@ JSON    2 mins          ░░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [string and encoding](https://www.0x2beace.com/string-and-encoding/)
 - [二零二零年终总结](https://www.0x2beace.com/2020-year-end-summary/)
 - [理解 Go 语言中的字符串和字节数组](https://www.0x2beace.com/understand-strings-and-byte-arrays-in-Go/)
 - [Composer 2.0 向下不兼容导致扩展安装出错](https://www.0x2beace.com/composer-2-0-backward-incompatibility-causes-extension-installation-error/)
 - [Swoole 协程快速上手](https://www.0x2beace.com/swoole-coroutine-quick-start/)
-- [Swoole 常见误区及问题总结](https://www.0x2beace.com/swoole-common-mistakes-and-problems-summary/)
 <!-- BLOG-POST-LIST:END -->
 
