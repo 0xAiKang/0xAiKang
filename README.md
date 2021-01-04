@@ -19,10 +19,10 @@ TOML       4 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [string and encoding](https://www.0x2beace.com/string-and-encoding/)
+- [PHP 垃圾回收机制](https://www.0x2beace.com/php-garbage-collection-mechanism/)
+- [字符串与编码](https://www.0x2beace.com/string-and-encoding/)
 - [二零二零年终总结](https://www.0x2beace.com/2020-year-end-summary/)
 - [理解 Go 语言中的字符串和字节数组](https://www.0x2beace.com/understand-strings-and-byte-arrays-in-Go/)
 - [Composer 2.0 向下不兼容导致扩展安装出错](https://www.0x2beace.com/composer-2-0-backward-incompatibility-causes-extension-installation-error/)
-- [Swoole 协程快速上手](https://www.0x2beace.com/swoole-coroutine-quick-start/)
 <!-- BLOG-POST-LIST:END -->
 
