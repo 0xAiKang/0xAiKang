@@ -19,10 +19,10 @@ Go         6 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mac 下有哪些好用的终端工具](https://www.0x2beace.com/what-are-some-useful-terminal-tools-under-Mac/)
 - [Mysql 索引设计与优化](https://www.0x2beace.com/mysql-index-design-and-optimization/)
 - [一次完整的网络请求过程](https://www.0x2beace.com/a-complete-network-request-process/)
 - [PHP 垃圾回收机制](https://www.0x2beace.com/php-garbage-collection-mechanism/)
 - [字符串与编码](https://www.0x2beace.com/string-and-encoding/)
-- [二零二零年终总结](https://www.0x2beace.com/2020-year-end-summary/)
 <!-- BLOG-POST-LIST:END -->
 
