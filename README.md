@@ -17,10 +17,10 @@ PHP        1 min           ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [《构建高性能 Web 站点》读书笔记](https://www.0x2beace.com/building-a-high-performance-web-site-reading-notes/)
 - [PHP 中实现 Mysql 连接池与持久化](https://www.0x2beace.com/mysql-connection-pool-and-persistence-in-php/)
 - [PHP 实践 Redis 发布订阅](https://www.0x2beace.com/php-practice-redis-publish-and-subscribe/)
 - [《程序是怎样跑起来的》读书笔记](https://www.0x2beace.com/How-does-the-program-run-reading-notes/)
 - [PHP + xdebug 分析代码性能瓶颈](https://www.0x2beace.com/php-analysis-code-performance-bottleneck/)
-- [Mac 下有哪些好用的终端工具](https://www.0x2beace.com/what-are-some-useful-terminal-tools-under-Mac/)
 <!-- BLOG-POST-LIST:END -->
 
