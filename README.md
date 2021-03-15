@@ -19,10 +19,10 @@ SCSS             8 mins          ░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [什么是 N+1 问题，以及如何解决](https://www.0x2beace.com/what-is-the-n-1-problem-and-how-to-solve-it/)
+- [L01 Laravel 教程- Web 开发实战入门课程笔记](https://www.0x2beace.com/laravel-tutorial-notes-for-a-hands-on-introduction-to-web-development/)
 - [Linux 添加用户及提权](https://www.0x2beace.com/linux-to-add-users-and-rights/)
 - [如何在 PHP 中使用枚举](https://www.0x2beace.com/how-do-I-use-enumerations-in-php/)
 - [写代码的好习惯](https://www.0x2beace.com/good-habit-of-writing-code/)
-- [PHP 常见面试题整理](https://www.0x2beace.com/php-common-interview-questions/)
-- [《构建高性能 Web 站点》读书笔记](https://www.0x2beace.com/building-a-high-performance-web-site-reading-notes/)
 <!-- BLOG-POST-LIST:END -->
 
