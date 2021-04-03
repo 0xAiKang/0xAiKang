@@ -19,10 +19,10 @@ Markdown     9 mins          ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [谈谈第一次使用 Laravel 开发的感想](https://www.0x2beace.com/talk-about-the-feelings-of-using-laravel-development-for-the-first-time/)
 - [记一次升级 PHP 引发的一些思考](https://www.0x2beace.com/some-thoughts-caused-by-upgrading-php-at-a-time/)
 - [『转载』Laravel 中大型项目架构](https://www.0x2beace.com/laravel-medium-and-large-project-architecture/)
 - [Linux 如何挂载新硬盘](https://www.0x2beace.com/how-to-mount-a-new-hard-disk-in-linux/)
 - [Mac 如何只保留一个输入法](https://www.0x2beace.com/how-to-keep-only-one-input-method-on-mac/)
-- [Jenkins + Gitlab 持续集成](https://www.0x2beace.com/jenkins-gitlab-continuous-integration/)
 <!-- BLOG-POST-LIST:END -->
 
