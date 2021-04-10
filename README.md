@@ -19,10 +19,10 @@ JSON         10 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [如何更好的使用 Laravel 软删除](https://www.0x2beace.com/how-to-better-use-laravel-soft-delete/)
 - [Valine 如何开启评论邮件通知](https://www.0x2beace.com/how-does-valine-turn-on-comment-email-notifications/)
 - [Laravel Eloquent ORM 常用操作整理](https://www.0x2beace.com/laravel-eloquent-orm-common-operations-finishing/)
 - [谈谈第一次使用 Laravel 开发的感想](https://www.0x2beace.com/talk-about-the-feelings-of-using-laravel-development-for-the-first-time/)
 - [记一次升级 PHP 引发的一些思考](https://www.0x2beace.com/some-thoughts-caused-by-upgrading-php-at-a-time/)
-- [『转载』Laravel 中大型项目架构](https://www.0x2beace.com/laravel-medium-and-large-project-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
