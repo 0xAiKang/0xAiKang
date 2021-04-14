@@ -19,10 +19,10 @@ JavaScript   7 mins          ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Eloquent 常用属性整理](https://www.0x2beace.com/laravel-eloquent-common-attributes-sorting/)
 - [『转载』如何使用Service 模式](https://www.0x2beace.com/how-to-use-service-mode/)
 - [『转载』域名背后那些事](https://www.0x2beace.com/those-things-behind-the-domain-name/)
 - [如何更好的使用 Laravel 软删除](https://www.0x2beace.com/how-to-better-use-laravel-soft-delete/)
 - [Valine 如何开启评论邮件通知](https://www.0x2beace.com/how-does-valine-turn-on-comment-email-notifications/)
-- [Laravel Eloquent ORM 常用操作整理](https://www.0x2beace.com/laravel-eloquent-orm-common-operations-finishing/)
 <!-- BLOG-POST-LIST:END -->
 
