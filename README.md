@@ -19,10 +19,10 @@ Git        2 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips of PHP](https://www.0x2beace.com/tips-of-php/)
 - [Laravel 中的 Collection 基本使用](https://www.0x2beace.com/basic-use-of-collection-in-laravel/)
 - [『转载』如何使用Repository 模式](https://www.0x2beace.com/how-to-use-repository-mode/)
 - [Laravel Eloquent 常用属性整理](https://www.0x2beace.com/laravel-eloquent-common-attributes-sorting/)
 - [『转载』如何使用Service 模式](https://www.0x2beace.com/how-to-use-service-mode/)
-- [『转载』域名背后那些事](https://www.0x2beace.com/those-things-behind-the-domain-name/)
 <!-- BLOG-POST-LIST:END -->
 
