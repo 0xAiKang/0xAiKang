@@ -18,10 +18,10 @@ Git        1 min           ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Centos 7 设置静态 IP](https://www.0x2beace.com/centos-7-set-static-ip/)
 - [如何利用Jenkins 实现标签或者分支选择性构建](https://www.0x2beace.com/how-to-use-jenkins-to-implement-tag-or-branch-selective-construction/)
 - [Laravel 中 Collection 的实际使用](https://www.0x2beace.com/the-actual-use-of-collection-in-laravel/)
 - [Tips of PHP](https://www.0x2beace.com/tips-of-php/)
 - [Laravel 中的 Collection 基本使用](https://www.0x2beace.com/basic-use-of-collection-in-laravel/)
-- [『转载』如何使用Repository 模式](https://www.0x2beace.com/how-to-use-repository-mode/)
 <!-- BLOG-POST-LIST:END -->
 
