@@ -18,10 +18,10 @@ Git          2 mins          ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [如何配置一个简洁高效的 Zsh](https://www.0x2beace.com/how-to-configure-a-simple-and-efficient-zsh/)
 - [Centos 7 设置静态 IP](https://www.0x2beace.com/centos-7-set-static-ip/)
 - [如何利用Jenkins 实现标签或者分支选择性构建](https://www.0x2beace.com/how-to-use-jenkins-to-implement-tag-or-branch-selective-construction/)
 - [Laravel 中 Collection 的实际使用](https://www.0x2beace.com/the-actual-use-of-collection-in-laravel/)
 - [Tips of PHP](https://www.0x2beace.com/tips-of-php/)
-- [Laravel 中的 Collection 基本使用](https://www.0x2beace.com/basic-use-of-collection-in-laravel/)
 <!-- BLOG-POST-LIST:END -->
 
