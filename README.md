@@ -19,7 +19,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [理解依赖注入和控制反转](https://www.0x2beace.com/understand-dependency-injection-and-inversion-of-control/)
+- [用一个 IoC 容器来理解什么是依赖注入/控制反转](https://www.0x2beace.com/understand-dependency-injection-and-inversion-of-control/)
 - [使用职责链模式和反射解决流水线问题](https://www.0x2beace.com/use-chain-of-responsibility-pattern-and-reflection-to-solve-pipeline-problems/)
 - [小程序开发经验总结](https://www.0x2beace.com/summary-of-mini-program-development-experience/)
 - [如何配置一个简洁高效的 Zsh](https://www.0x2beace.com/how-to-configure-a-simple-and-efficient-zsh/)
