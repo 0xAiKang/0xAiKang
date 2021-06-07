@@ -19,10 +19,10 @@ JSON       8 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PHPStorm 使用技巧整理](https://www.0x2beace.com/phpstorm-use-skills-finishing/)
 - [Laravel jwt-auth 使用详解](https://www.0x2beace.com/laravel-jwt-auth-use-detailed-explanation/)
 - [Laravel Artisan 自定义命令](https://www.0x2beace.com/laravel-artisan-custom-commands/)
 - [Laravel Request 常见表单验证整理](https://www.0x2beace.com/laravel-request-common-form-validation-finishing/)
 - [Laravel Exception 基本使用](https://www.0x2beace.com/basic-use-of-laravel-cxception/)
-- [用一个 IoC 容器来理解什么是依赖注入/控制反转](https://www.0x2beace.com/understand-dependency-injection-and-inversion-of-control/)
 <!-- BLOG-POST-LIST:END -->
 
