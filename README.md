@@ -19,10 +19,10 @@ SQL        4 mins          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 如何执行定时任务](https://www.0x2beace.com/how-does-laravel-perform-timing-tasks/)
 - [Laravel Carbon 快速上手](https://www.0x2beace.com/laravel-carbon-quick-start/)
 - [记录 Laravel 开发中一些有意义的问题](https://www.0x2beace.com/record-some-meaningful-issues-in-laravel-development/)
 - [RabbitMQ 快速上手](https://www.0x2beace.com/rabbitmq-quick-start/)
 - [Tips of Laravel](https://www.0x2beace.com/tips-of-laravel/)
-- [Laravel 常用扩展包整理](https://www.0x2beace.com/laravel-commonly-used-extension-package-finishing/)
 <!-- BLOG-POST-LIST:END -->
 
