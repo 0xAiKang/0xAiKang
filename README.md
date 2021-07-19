@@ -19,10 +19,10 @@ JSON       11 mins         ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [talking about mysql transaction and lock](https://www.0x2beace.com/talking-about-mysql-transaction-and-lock/)
+- [如何在 Laravel 中使用 RabbitMQ](https://www.0x2beace.com/how-to-use-rabbitmq-in-laravel/)
+- [浅谈 Mysql 事务与锁](https://www.0x2beace.com/talking-about-mysql-transaction-and-lock/)
 - [Laravel Queue 必知必会](https://www.0x2beace.com/laravel-queue-must-know-and-know/)
 - [Laravel 如何执行定时任务](https://www.0x2beace.com/how-does-laravel-perform-timing-tasks/)
 - [Laravel Carbon 快速上手](https://www.0x2beace.com/laravel-carbon-quick-start/)
-- [记录 Laravel 开发中一些有意义的问题](https://www.0x2beace.com/record-some-meaningful-issues-in-laravel-development/)
 <!-- BLOG-POST-LIST:END -->
 
