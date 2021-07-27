@@ -18,10 +18,10 @@ Markdown     11 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Eloquent 高阶用法整理](https://www.0x2beace.com/laravel-eloquent-advanced-usage/)
 - [Mysql 如何自定义排序](https://www.0x2beace.com/how-to-customize-sorting-in-mysql/)
 - [记一次服务端防火墙引起的 444 错误](https://www.0x2beace.com/444-errors-caused-by-a-server-firewall/)
 - [如何在 Laravel 中使用 RabbitMQ](https://www.0x2beace.com/how-to-use-rabbitmq-in-laravel/)
 - [浅谈 Mysql 事务与锁](https://www.0x2beace.com/talking-about-mysql-transaction-and-lock/)
-- [Laravel Queue 必知必会](https://www.0x2beace.com/laravel-queue-must-know-and-know/)
 <!-- BLOG-POST-LIST:END -->
 
