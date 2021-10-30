@@ -18,10 +18,10 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用组合重构支付模块](https://www.0x2beace.com/reconstruct-the-payment-module-using-a-combination/)
 - [如何在 Laravel 中使用子查询](https://www.0x2beace.com/how-to-use-subqueries-in-laravel/)
 - [Laravel 完善 Error/Exception 的捕获与处理](https://www.0x2beace.com/laravel-improves-error-exception-capture-and-handling/)
 - [Laravel 连接多个 Mysql 数据库](https://www.0x2beace.com/laravel-connects-to-multiple-mysql-databases/)
 - [Laravel Group By 异常记录](https://www.0x2beace.com/laravel-uses-group-by-exception-logging/)
-- [记一次由 Nginx fastcgi_temp 权限不足引起的问题](https://www.0x2beace.com/note-a-problem-caused-by-insufficient-nginx-fastcgi_temp-permission/)
 <!-- BLOG-POST-LIST:END -->
 
