@@ -15,10 +15,10 @@ Other        27 hrs 41 mins  ███████████████▓░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mysql Too many connections 异常记录](https://www.0x2beace.com/mysql-too-many-connections-exception-record/)
 - [库存超出常见解决方案整理](https://www.0x2beace.com/inventory-beyond-common-solution-collation/)
 - [MySql Lock wait timeout exceeded 异常记录](https://www.0x2beace.com/mysql-lock-wait-timeout-exceeded-exception-record/)
 - [Mysql 如何从全备中恢复指定表数据](https://www.0x2beace.com/how-mysql-restores-specified-table-data-from-full-backup/)
 - [Node 版本控制工具](https://www.0x2beace.com/node-version-control-tool/)
-- [Git 经典操作场景整理，专治不会合代码](https://www.0x2beace.com/the-classic-operation-scene-of-git-is-organized/)
 <!-- BLOG-POST-LIST:END -->
 
