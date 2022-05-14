@@ -16,10 +16,10 @@ Other        3 hrs 5 mins    █▓░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [记录一次网站无法访问事件](https://www.0x2beace.com/log-a-website-inaccessible-event/)
 - [C 语言学习笔记](https://www.0x2beace.com/c-language-study-notes/)
 - [.git 探秘 — 认识 Git 对象](https://www.0x2beace.com/git-exploring-%E2%80%94-getting-to-know-git-objects/)
 - [git 设置和取消代理](https://www.0x2beace.com/git-set-and-cancel-proxy/)
 - [Mysql Too many connections 异常记录](https://www.0x2beace.com/mysql-too-many-connections-exception-record/)
-- [库存超出常见解决方案整理](https://www.0x2beace.com/inventory-beyond-common-solution-collation/)
 <!-- BLOG-POST-LIST:END -->
 
