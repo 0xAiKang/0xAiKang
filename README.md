@@ -17,7 +17,7 @@ Other        2 hrs 13 mins   █▒░░░░░░░░░░░░░░░
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [03 事务隔离：为什么你改了我还看不见](https://www.0x2beace.com/transaction-lsolation-why-you-changed-I-can-not-see-it/)
-- [introduction to the index &lpar;part 1&rpar;](https://www.0x2beace.com/introduction-to-the-index-part-1/)
+- [04 深入浅出索引（上）](https://www.0x2beace.com/introduction-to-the-index-part-1/)
 - [数据结构（三）栈](https://www.0x2beace.com/data-structure-3-stack/)
 - [数据结构（二）线性表](https://www.0x2beace.com/data-structure-2-linear-table/)
 - [数据结构（一）基本概念](https://www.0x2beace.com/data-structure-1-basic-concepts/)
