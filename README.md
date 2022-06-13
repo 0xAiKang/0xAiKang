@@ -16,10 +16,10 @@ Other        4 hrs 23 mins   ██▓░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [07 行锁功过:怎么减少行锁对性能的影响](https://www.0x2beace.com/row-lock-merits-and-demerits-how-to-reduce-the-impact-of-row-locks-on-performance/)
 - [06 全局锁和表锁：给表加个字段怎么有这么多阻碍](https://www.0x2beace.com/global-lock-and-table-lock-how-can-there-be-so-many-obstacles-to-adding-a-field-to-a-table/)
 - [Eloquent ORM 常见使用场景整理](https://www.0x2beace.com/common-usage-scenarios-of-eloquent-orm/)
 - [数据结构（五）二叉搜索树](https://www.0x2beace.com/data-structure-5-binary-search-tree/)
 - [数据结构（四）队列](https://www.0x2beace.com/data-structure-4-queue/)
-- [05 深入浅出索引（下）](https://www.0x2beace.com/introduction-to-the-index-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
