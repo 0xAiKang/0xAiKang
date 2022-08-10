@@ -16,10 +16,10 @@ Other                      14 mins         █████▓░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [17 如何正确地显示随机消息](https://www.0x2beace.com/how-to-display-random-messages-correctly/)
 - [轻量级开发环境 Valet 快速上手](https://www.0x2beace.com/get-started-quickly-with-the-lightweight-development-environment-valet/)
-- [order by是怎么工作的](https://www.0x2beace.com/how-does-order-by-work/)
+- [16 order by是怎么工作的](https://www.0x2beace.com/how-does-order-by-work/)
 - [14 count&lpar;*&rpar;这么慢，我该怎么办](https://www.0x2beace.com/count-is-so-slow-what-should-i-do/)
 - [13 为什么表数据删掉一半，表文件大小不变](https://www.0x2beace.com/why-is-half-of-the-table-data-deleted-but-the-table-file-size-remains-the-same/)
-- [12 为什么我的 Mysql 会抖一下](https://www.0x2beace.com/why-does-my-mysql-shake/)
 <!-- BLOG-POST-LIST:END -->
 
