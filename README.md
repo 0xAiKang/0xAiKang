@@ -17,8 +17,8 @@ No activity tracked
 <!-- BLOG-POST-LIST:START -->
 - [异或运算 XOR 快速上手](https://www.0x2beace.com/different-calculations-xor-rapid-skill/)
 - [ElasticSearch 快速上手](https://www.0x2beace.com/elasticsearch-quick-start/)
+- [Go 语言学习笔记——运行第一个 Go 程序](https://www.0x2beace.com/go-language-learning-manual%E2%80%94%E2%80%94transportation-first-go-procedure/)
 - [计算机网络学习——01 TCP/IP网络模型](https://www.0x2beace.com/computer-network-learning-01-tcp-ip-network-model/)
 - [Mysql 专栏学习笔记](https://www.0x2beace.com/mysql-column-study-notes/)
-- [38 都说InnoDB好，那还要不要使用Memory引擎](https://www.0x2beace.com/it-is-said-that-innodb-is-good-so-do-you-want-to-use-the-memory-engine/)
 <!-- BLOG-POST-LIST:END -->
 
