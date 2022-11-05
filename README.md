@@ -16,9 +16,9 @@ No activity tracked
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [异或运算 XOR 快速上手](https://www.0x2beace.com/different-calculations-xor-rapid-skill/)
+- [Go 语言学习笔记——字符串](https://www.0x2beace.com/go-language-study-notes-string/)
+- [Go 语言学习笔记——数据类型](https://www.0x2beace.com/go-language-study-notes-type-of-data/)
 - [Go 语言学习笔记——变量遮蔽问题](https://www.0x2beace.com/go-language-study-notes-variable-shadowing-problem/)
 - [Go 语言学习笔记——变量声明](https://www.0x2beace.com/go-language-study-notes-variable-declaration/)
-- [Go 语言学习笔记——认识Go Module](https://www.0x2beace.com/go-language-study-notes-get-to-know-go-module/)
-- [Go 语言学习笔记——入口函数与初始化次序](https://www.0x2beace.com/go-language-study-notes-entry-function-and-initialization-order/)
 <!-- BLOG-POST-LIST:END -->
 
