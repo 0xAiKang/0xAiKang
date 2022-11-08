@@ -16,9 +16,9 @@ No activity tracked
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [异或运算 XOR 快速上手](https://www.0x2beace.com/different-calculations-xor-rapid-skill/)
+- [Go 语言学习笔记——结构体](https://www.0x2beace.com/go-language-study-notes-struct/)
 - [Go 语言学习笔记——map](https://www.0x2beace.com/go-language-study-notes-map/)
 - [Go 语言学习笔记——数组和切片](https://www.0x2beace.com/go-language-study-notes-array-and-slice/)
 - [Go 语言学习笔记——字符串](https://www.0x2beace.com/go-language-study-notes-string/)
-- [Go 语言学习笔记——数据类型](https://www.0x2beace.com/go-language-study-notes-type-of-data/)
 <!-- BLOG-POST-LIST:END -->
 
