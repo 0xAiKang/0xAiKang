@@ -20,10 +20,10 @@ textmate   3 mins          ▒░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 语言学习笔记——指针](https://www.0x2beace.com/go-language-study-notes-pointer/)
+- [Go 语言学习笔记——组合](https://www.0x2beace.com/go-language-study-notes-combination/)
 - [Go 语言学习笔记——接口运行时表示](https://www.0x2beace.com/go-language-study-notes-interface-runtime-representation/)
 - [Go 语言学习笔记——接口](https://www.0x2beace.com/go-language-study-notes-interface/)
 - [Go 语言学习笔记——类型嵌入](https://www.0x2beace.com/go-language-study-notes-embedded-type/)
-- [异或运算 XOR 快速上手](https://www.0x2beace.com/different-calculations-xor-rapid-skill/)
-- [Go 语言学习笔记——方法接收器的选择](https://www.0x2beace.com/go-language-study-notes-receiver/)
 <!-- BLOG-POST-LIST:END -->
 
