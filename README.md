@@ -8,7 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go         5 hrs 35 mins   ██████████████████████▒░░   89.74 %
+Markdown   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+PHP        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Text       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Bash       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+textmate   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
