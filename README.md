@@ -20,10 +20,10 @@ Bash            4 mins          ░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 语言学习笔记——goroutine](https://www.0x2beace.com/go-language-study-notes-goroutine/)
 - [Go 语言学习笔记——指针](https://www.0x2beace.com/go-language-study-notes-pointer/)
 - [Go 语言学习笔记——组合](https://www.0x2beace.com/go-language-study-notes-combination/)
 - [Go 语言学习笔记——接口运行时表示](https://www.0x2beace.com/go-language-study-notes-interface-runtime-representation/)
 - [Go 语言学习笔记——接口](https://www.0x2beace.com/go-language-study-notes-interface/)
-- [Go 语言学习笔记——类型嵌入](https://www.0x2beace.com/go-language-study-notes-embedded-type/)
 <!-- BLOG-POST-LIST:END -->
 
