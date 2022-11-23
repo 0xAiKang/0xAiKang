@@ -20,10 +20,10 @@ GitIgnore file   15 mins         ▒░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 语言学习笔记——sync.Mutex与sync](https://www.0x2beace.com/go-language-study-notes-sync-Mutex-and-sync/)
 - [Go 语言学习笔记——channel](https://www.0x2beace.com/go-language-study-notes-channel/)
 - [Go 语言学习笔记——结构体标签](https://www.0x2beace.com/go-language-study-notes-struct-tag/)
 - [Go 语言学习笔记——goroutine](https://www.0x2beace.com/go-language-study-notes-goroutine/)
 - [Go 语言学习笔记——指针](https://www.0x2beace.com/go-language-study-notes-pointer/)
-- [Go 语言学习笔记——组合](https://www.0x2beace.com/go-language-study-notes-combination/)
 <!-- BLOG-POST-LIST:END -->
 
