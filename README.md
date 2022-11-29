@@ -20,10 +20,10 @@ HTML             6 mins          ░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 语言学习笔记——如何理解 channel 的无缓冲带和有缓冲带](https://www.0x2beace.com/go-language-study-notes-how-to-understand-the-channel-without-buffer-and-with-buffer/)
 - [Go 语言零散学习笔记](https://www.0x2beace.com/go-language-study-notes/)
 - [Go 语言学习笔记——sync.WaitGroup和sync.Once](https://www.0x2beace.com/go-language-study-notes-sync-Mutex-and-sync-WaitGroup-and-sync-Once/)
 - [Go 语言学习笔记——sync.Mutex与sync](https://www.0x2beace.com/go-language-study-notes-sync-Mutex-and-sync/)
 - [Go 语言学习笔记——原子操作](https://www.0x2beace.com/go-language-study-notes-atomic-operation/)
-- [Go 语言学习笔记——channel](https://www.0x2beace.com/go-language-study-notes-channel/)
 <!-- BLOG-POST-LIST:END -->
 
