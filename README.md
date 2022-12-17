@@ -20,10 +20,10 @@ Markdown    0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 语言学习——json 结构体标签](https://www.0x2beace.com/go-language-study-notes-json-structure-tag/)
 - [Wrk 性能测试工具](https://www.0x2beace.com/wrk-performance-testing-tool/)
 - [Go 语言学习笔记——Go 标准命令学习](https://www.0x2beace.com/go-language-study-notes-standard-command-learning/)
 - [Go 语言学习笔记——如何理解 channel 的无缓冲带和有缓冲带](https://www.0x2beace.com/go-language-study-notes-how-to-understand-the-channel-without-buffer-and-with-buffer/)
 - [Go 语言零散学习笔记](https://www.0x2beace.com/go-language-study-notes/)
-- [Go 语言学习笔记——sync.WaitGroup和sync.Once](https://www.0x2beace.com/go-language-study-notes-sync-Mutex-and-sync-WaitGroup-and-sync-Once/)
 <!-- BLOG-POST-LIST:END -->
 
