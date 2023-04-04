@@ -18,10 +18,10 @@ Other                      1 hr 42 mins    █░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker 固定容器 IP](https://www.0x2beace.com/docker-fixed-container-ip/)
 - [使用 PHP 接入 Stripe 支付](https://www.0x2beace.com/Using-PHP-to-access-Stripe-payment/)
 - [Expo Push快速上手](https://www.0x2beace.com/Expo-Push-to-get-started-quickly/)
 - [使用 PayPal-PHP-SDK 接入 PayPal 支付](https://www.0x2beace.com/use-paypal-php-sdk-to-access-paypal-payment/)
 - [Facebook 第三方登录](https://www.0x2beace.com/facebook-third-party-login/)
-- [ChatGPT Access Denied](https://www.0x2beace.com/chatgpt-access-denied/)
 <!-- BLOG-POST-LIST:END -->
 
