@@ -8,9 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        4 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.71 %
-Docker                     4 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.33 %
-Other                      1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Docker                     3 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   43.17 %
+Other                      1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
 ```
 
 <!--END_SECTION:waka-->
