@@ -19,10 +19,10 @@ Bash           10 mins         ▒░░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [如何在 Docker 中使用 Xdebug 进行调试](https://www.0x2beace.com/how-to-debug-with-xdebug-in-docker/)
+- [如何在 Mac 上使用 Docker 运行 PHP](https://www.0x2beace.com/how-to-run-php-with-docker-on-mac/)
 - [PHP 处理各种 PDF 场景](https://www.0x2beace.com/php-handles-various-pdf-scenarios/)
 - [使用 frp 内网穿透](https://www.0x2beace.com/use-the-frp-intranet-to-penetrate/)
 - [如何为PHP编写 Dockerfile](https://www.0x2beace.com/how-to-write-dockerfile-for-php/)
-- [Docker 固定容器 IP](https://www.0x2beace.com/docker-fixed-container-ip/)
-- [使用 PHP 接入 Stripe 支付](https://www.0x2beace.com/Using-PHP-to-access-Stripe-payment/)
 <!-- BLOG-POST-LIST:END -->
 
