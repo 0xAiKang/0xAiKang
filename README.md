@@ -19,10 +19,10 @@ Text             43 mins         █░░░░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [谷歌 Gmail 邮箱启用 SMTP/IMAP 服务](https://www.0x2beace.com/enable-smtp-imap-service-in-google-gmail-mailbox/)
 - [使用 PHP 接入 Apple 登录](https://www.0x2beace.com/sign-in-with-apple/)
 - [使用 PHP 接入 Google 登录](https://www.0x2beace.com/sign-in-with-google/)
 - [FFMpeg 快速上手](https://www.0x2beace.com/ffmpeg-quick-start/)
 - [如何在 Docker 中使用 Xdebug 进行调试](https://www.0x2beace.com/how-to-debug-with-xdebug-in-docker/)
-- [如何在 Mac 上使用 Docker 运行 PHP](https://www.0x2beace.com/how-to-run-php-with-docker-on-mac/)
 <!-- BLOG-POST-LIST:END -->
 
