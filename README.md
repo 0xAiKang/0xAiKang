@@ -8,7 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML       4 mins          ██████████████▒░░░░░░░░░░   56.89 %
+PHP        3 mins          ██████████▓░░░░░░░░░░░░░░   42.48 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
