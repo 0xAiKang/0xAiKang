@@ -1,15 +1,21 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # 每天 01:00 UTC（北京时间 09:00）跑一次
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
-          feed_list: "https://www.0x2beace.com/atom.xml"
+          feed_list: "https://kk2beace.com/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "UTC:mm-dd"
