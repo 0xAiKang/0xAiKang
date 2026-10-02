@@ -19,3 +19,5 @@ jobs:
           max_post_count: 5
           template: "- [$title]($url) <sub>$date</sub>$newline"
           date_format: "UTC:mm-dd"
+          # 用自定义模板时默认不换行，第一篇会和 START 注释挤在一行，被当成注释吞掉
+          tag_post_pre_newline: true
